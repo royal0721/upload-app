@@ -7,8 +7,7 @@
 
 <img width="755" alt="Screenshot 2025-03-25 at 11 34 38 AM" src="https://github.com/user-attachments/assets/531aede2-0195-4ac5-a8d0-5f2a06a1f77c" />
 
-You can find the uploaded files under `/uploads`.
-But for better practices, we should prefer 
+You can find the uploaded files under `/uploads`. However, as a best practice, it is recommended to use a more secure and configurable storage strategy.
 
 # Frontend repo
 https://github.com/royal0721/upload-client
